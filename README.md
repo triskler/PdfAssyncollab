@@ -1,6 +1,7 @@
 # Pdf Assyncollab
 
-![Logo do Projeto](link-da-imagem-ou-logo)
+<img src="https://media.discordapp.net/attachments/1344019068159660124/1349813598544723978/file-5hhyoEeTDH1FEZ74ckNCbk.png?ex=67dd0920&is=67dbb7a0&hm=79f849550c092722eb44984e4974e879f504513a00f8f85001b8b2998911fe3e&=&format=webp&quality=lossless&width=918&height=918" width="300" />
+
 
 **Descrição:**  
 Projeto elaborado para a leitura e edição de arquivos pdf.
