@@ -1,0 +1,85 @@
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Pdf Assyncollab.exe.config
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Pdf Assyncollab.exe
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Pdf Assyncollab.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.Charting.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.Quality.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.System.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Buffers.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Memory.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.ValueTuple.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Core.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Fonts.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Package.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Tokenization.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Tokens.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.Charting.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.Quality.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.System.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.System.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Buffers.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Memory.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\System.ValueTuple.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Core.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Core.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.DocumentLayoutAnalysis.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.DocumentLayoutAnalysis.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Fonts.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Fonts.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Package.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Package.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Tokenization.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Tokenization.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Tokens.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\UglyToad.PdfPig.Tokens.xml
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\obj\Debug\Pdf Assyncollab.csproj.AssemblyReference.cache
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\obj\Debug\Pdf_Assyncollab.Form1.resources
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\obj\Debug\Pdf_Assyncollab.Properties.Resources.resources
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\obj\Debug\Pdf Assyncollab.csproj.GenerateResource.cache
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\obj\Debug\Pdf Assyncollab.csproj.CoreCompileInputs.cache
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\obj\Debug\Pdf Assy.C3F2BF3D.Up2Date
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\obj\Debug\Pdf Assyncollab.exe
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\obj\Debug\Pdf Assyncollab.pdb
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Pdf Assyncollab.exe.manifest
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\bin\Debug\Pdf Assyncollab.application
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\obj\Debug\Pdf Assyncollab.exe.manifest
+C:\Users\fonse\Desktop\UniAberta\Laboratorio_desenvolvimento\Projeto Assyncollab\Pdf Assyncollab\Pdf Assyncollab\obj\Debug\Pdf Assyncollab.application
