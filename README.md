@@ -26,9 +26,11 @@ Siga os passos abaixo para rodar o projeto localmente:
    git clone https://github.com/triskler/PdfAssyncollab
 
 2. **Compilar o projeto**
+     ```bash
       dotnet build
 
 3. **Executar o projeto**
+      ```bash
       dotnet run
 
    
